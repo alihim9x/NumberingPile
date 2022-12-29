@@ -1,0 +1,37 @@
+D:\Kien\Study\Revit Api\NumberingElement\NumberingElement\NumberingElement\obj\Debug\NumberingElement.csprojAssemblyReference.cache
+D:\Kien\Study\Revit Api\NumberingElement\NumberingElement\NumberingElement\obj\Debug\Model\Form\InputForm.g.cs
+D:\Kien\Study\Revit Api\NumberingElement\NumberingElement\NumberingElement\obj\Debug\NumberingElement_MarkupCompile.cache
+D:\Kien\Study\Revit Api\NumberingElement\NumberingElement\NumberingElement\obj\Debug\NumberingElement_MarkupCompile.lref
+D:\Kien\Study\Revit Api\NumberingElement\NumberingElement\NumberingElement\bin\Debug\NumberingElement.dll
+D:\Kien\Study\Revit Api\NumberingElement\NumberingElement\NumberingElement\bin\Debug\NumberingElement.pdb
+D:\Kien\Study\Revit Api\NumberingElement\NumberingElement\NumberingElement\obj\Debug\Model\Form\InputForm.baml
+D:\Kien\Study\Revit Api\NumberingElement\NumberingElement\NumberingElement\obj\Debug\NumberingElement.g.resources
+D:\Kien\Study\Revit Api\NumberingElement\NumberingElement\NumberingElement\obj\Debug\NumberingElement.csproj.CoreCompileInputs.cache
+D:\Kien\Study\Revit Api\NumberingElement\NumberingElement\NumberingElement\obj\Debug\NumberingElement.dll
+D:\Kien\Study\Revit Api\NumberingElement\NumberingElement\NumberingElement\obj\Debug\NumberingElement.pdb
+D:\Kien\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\bin\Debug\NumberingElement.dll
+D:\Kien\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\bin\Debug\NumberingElement.pdb
+D:\Kien\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\obj\Debug\Model\Form\InputForm.g.cs
+D:\Kien\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\obj\Debug\NumberingElement_MarkupCompile.cache
+D:\Kien\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\obj\Debug\NumberingElement_MarkupCompile.lref
+D:\Kien\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\obj\Debug\Model\Form\InputForm.baml
+D:\Kien\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\obj\Debug\NumberingElement.g.resources
+D:\Kien\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\obj\Debug\NumberingElement.dll
+D:\Kien\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\obj\Debug\NumberingElement.pdb
+D:\Kien\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\obj\Debug\NumberingElement.csprojResolveAssemblyReference.cache
+D:\Kien\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\obj\Debug\Model\Form\TagSpunPileForm.g.cs
+D:\Kien\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\obj\Debug\Model\Form\TagSpunPileForm.baml
+D:\Kien\old pc\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\bin\Debug\NumberingElement.dll
+D:\Kien\old pc\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\bin\Debug\NumberingElement.pdb
+D:\Kien\old pc\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\obj\Debug\NumberingElement.csprojResolveAssemblyReference.cache
+D:\Kien\old pc\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\obj\Debug\Model\Form\InputForm.g.cs
+D:\Kien\old pc\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\obj\Debug\Model\Form\TagSpunPileForm.g.cs
+D:\Kien\old pc\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\obj\Debug\NumberingElement_MarkupCompile.cache
+D:\Kien\old pc\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\obj\Debug\NumberingElement_MarkupCompile.lref
+D:\Kien\old pc\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\obj\Debug\Model\Form\InputForm.baml
+D:\Kien\old pc\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\obj\Debug\Model\Form\TagSpunPileForm.baml
+D:\Kien\old pc\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\obj\Debug\NumberingElement.g.resources
+D:\Kien\old pc\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\obj\Debug\NumberingElement.dll
+D:\Kien\old pc\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\obj\Debug\NumberingElement.pdb
+D:\Kien\old pc\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\obj\Debug\Model\Form\FindTextForm.g.cs
+D:\Kien\old pc\Study\Revit Api\Numbering-Pile\NumberingElement\NumberingElement\obj\Debug\Model\Form\FindTextForm.baml
