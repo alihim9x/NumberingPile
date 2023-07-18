@@ -93,6 +93,7 @@ namespace Utility
             
             //var path = sel.PickObject(Autodesk.Revit.UI.Selection.ObjectType.Element, new SelectionUtil(filterLine, null),"Vui lòng chọn đường dẫn").GetRevitElement();
             var paths = sel.PickObjects(Autodesk.Revit.UI.Selection.ObjectType.Element, new SelectionUtil(filterLine, null), "Vui lòng chọn đường dẫn").Select(x=>x.GetRevitElement()).ToList();
+            //var paths = sel.PickObjects(Autodesk.Revit.UI.Selection.ObjectType.Element).Select(x => x.GetRevitElement()).ToList();
             //var piles = sel.PickElementsByRectangle(new SelectionUtil(filterCate, null), "Vui lòng chọn nhóm cọc").ToList();
             //setting.EttElement = new Model.Entity.Element { RevitElement = path};
             paths.ForEach(x => setting.EttElements.Add(new Model.Entity.Element { RevitElement = x }));
